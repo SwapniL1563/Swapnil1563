@@ -3,7 +3,7 @@
 I'm a **Full Stack Web Developer** crafting interactive and scalable web experiences. I blend creativity with technology to build modern, fast, and dynamic web apps.
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=fffff&width=500&lines=CODE+|+CREATE+|+INNOVATE;FRONTEND+|+BACKEND+|+DESIGN;FULL+STACK+WEB+DEVELOPER!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&weight=600&pause=1000&color=fffff&width=500&lines=CODE+|+CREATE+|+INNOVATE;FRONTEND+|+BACKEND+|+DESIGN;FULL+STACK+WEB+DEVELOPER!">
 </h1>
 
 ---
